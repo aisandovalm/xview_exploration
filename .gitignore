@@ -1,0 +1,6 @@
+*.rar
+*.zip
+*.geojson
+*.json
+train_images/*
+xview_dataset/*
